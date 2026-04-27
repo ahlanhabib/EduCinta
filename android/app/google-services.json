@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "772332861806",
+    "project_id": "ma-bakti-natuna",
+    "storage_bucket": "ma-bakti-natuna.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772332861806:android:82ee3908e33d955d08297f",
+        "android_client_info": {
+          "package_name": "ma.baktinatuna.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB706PQA2jeVkGoZ5YZd-YjkTJXNK53eUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
