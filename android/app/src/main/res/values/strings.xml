@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">EduCinta-AI</string>
+    <string name="title_activity_main">EduCinta-AI</string>
+    <string name="package_name">ma.educinta.app</string>
+    <string name="custom_url_scheme">ma.educinta.app</string>
+</resources>
